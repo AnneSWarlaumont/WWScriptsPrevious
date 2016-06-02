@@ -1,2 +1,2 @@
-# GinaWWScripts
-R Scripts for GinaWW project
+# WWScripts
+R Scripts for WWTranscription project
