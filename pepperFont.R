@@ -9,6 +9,7 @@ pFont <- function (path, filename, output) {
   file$transcription <- sub("a", "ŋ", file$transcription)
   file$transcription <- sub("c", "ʃ", file$transcription)
   file$transcription <- sub("j", "dʒ", file$transcription)
+  file$transcription <- sub("y", "j", file$transcription)
   file$transcription <- sub("q", "æ", file$transcription)
   file$transcription <- sub("x", "Ʒ", file$transcription)
   file$transcription <- sub("1", "e", file$transcription)
