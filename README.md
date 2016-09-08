@@ -5,6 +5,6 @@ runanalyses.R: Run this to recode the transcriptions into categories for analysi
 
 spkrcode.R: Recodes more detailed transcriptions (exported from ELAN) into single-character codes particular to the analyses for this project. Transcription instructions are available here: https://drive.google.com/folderview?id=0B7TInaKaaLhcflBDeEMyc3Z4bklMdW1nNUJmQzVlVnl5LUxyaEVPZl8tSHMyY0gzWTI3Q2c&usp=sharing
 
-pauseoverlap.R:
+pauseoverlap.R: Converts the ordered annotations to a sequence of non-overlapping events, with pause events inserted.
 
 sequenceevents.R:
